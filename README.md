@@ -39,11 +39,13 @@ www_dir.tar.gz → Sitio web (index.php, logo.png)
 
 backup_dir.tar.gz → Backups generados automáticamente
 
-var_part_aa  → Parte 1 de 3
+var_part_aa  → Parte 1 de 4
 
-var_part_ab  → Parte 2 de 3
+var_part_ab  → Parte 2 de 4
 
-var_part_ac  → Parte 3 de 3
+var_part_ac  → Parte 3 de 4
+
+var_part_ad  → Parte 4 de 4
 
 Además se incluye:
 
